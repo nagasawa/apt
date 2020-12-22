@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: masato nagasawa
+Label: nagasawa
+Codename: nagasawa
+Date: Tue, 22 Dec 2020 22:54:38 UTC
+Architectures: arm64
+Components: main
+Description: nagasawa
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 0050bc04c92dbda4670982c605821afd 98 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 23684f8ab2bc26ead8f39f160eda667198abbf5f 98 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 99e9ba9614ee7580be7402274b35d186385bb8cca749396664a81390905b0e44 98 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE4AXlTqUm5wPgz/7X1yaEbEX/EXAFAl/ieS4ACgkQ1yaEbEX/
+EXA79Qv/ecxcvcCnIrbU2q2iwpAlDl1f/WLsFUpeChbp6vi5PZXo1ISHY3W3XOTt
+AWZdzE6n+T1ZzC/PUpDBSmSJbP2gfamQglifKHr3QjTYcyUKk52GVyqPyv1zXzAd
+6fLClOt2x9b41WuJJLOVKdOP5XCscEgSSIvGYGeAsKOJcrmZ8SEbDHwFf51DR3Yz
+FCFerSzoaQrfw2FDI3NUMCeRn7kDHsRhOrMGJKPizmhb6vdnqYeQjt6zIpysmAnu
+fsfFRoReqkNNZUZMeXELdLm5/ndVFzjs/jZGCouqA0UMG0pNUhBC4gAXZLKenAEr
+OMSN2VVq9oourj83UP2Z91WONYlq+RlxBYlw0bur/PBehckjo8kiZ8mtp0AJF5HF
+uvBtMl1+oF6ZNWa/i/NaxNRBUbCgog68JIXiXDAOx3002iLTj79N/DybAHBo5Jxw
+Pce3tF3G8+JkJ4bYSpF+l0hY/J2s3sYSFJ2T95BVdJOXIxxx7KieEQDqnWvK+Kgl
+syl1+q32
+=CsnW
+-----END PGP SIGNATURE-----

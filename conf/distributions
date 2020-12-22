@@ -1,0 +1,7 @@
+Origin: masato nagasawa
+Label: nagasawa
+Codename: nagasawa
+Architectures: arm64
+Components: main
+Description: nagasawa
+SignWith: E005E54EA526E703E0CFFED7D726846C45FF1170
